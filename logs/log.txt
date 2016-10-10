@@ -1,0 +1,15 @@
+00:43:30.254 [main] WARN  com.lavr.first.action.TriangleAction - Triangle is degenerated. Coordinates:Point{x=0, y=0}Point{x=0, y=0}Point{x=0, y=0}
+00:44:39.437 [main] WARN  com.lavr.first.action.TriangleAction - Triangle is degenerated. Coordinates:Point{x=0, y=0}Point{x=0, y=0}Point{x=0, y=0}
+09:01:42.316 [main] WARN  com.lavr.first.action.TriangleAction - Triangle is degenerated. Coordinates:Point{x=0, y=0}Point{x=0, y=0}Point{x=0, y=0}
+09:02:01.785 [main] WARN  com.lavr.first.action.TriangleAction - Triangle is degenerated. Coordinates:Point{x=0, y=0}Point{x=0, y=0}Point{x=0, y=0}
+09:02:59.223 [main] WARN  com.lavr.first.action.TriangleAction - Triangle is degenerated. Coordinates:Point{x=0, y=0}Point{x=0, y=0}Point{x=0, y=0}
+09:03:46.344 [main] WARN  com.lavr.first.action.TriangleAction - Triangle is degenerated. Coordinates:Point{x=0, y=0}Point{x=0, y=0}Point{x=0, y=0}
+09:04:12.518 [main] WARN  com.lavr.first.action.TriangleAction - Triangle is degenerated. Coordinates:Point{x=0, y=0}Point{x=0, y=0}Point{x=0, y=0}
+09:04:19.382 [main] WARN  com.lavr.first.action.TriangleAction - Triangle is degenerated. Coordinates:Point{x=0, y=0}Point{x=0, y=0}Point{x=0, y=0}
+09:04:47.192 [main] WARN  com.lavr.first.action.TriangleAction - Triangle is degenerated. Coordinates:Point{x=0, y=0}Point{x=0, y=0}Point{x=0, y=0}
+09:07:04.654 [main] WARN  com.lavr.first.action.TriangleAction - Triangle is degenerated. Coordinates:Point{x=0, y=0}Point{x=0, y=0}Point{x=0, y=0}
+19:35:53.769 [main] ERROR com.lavr.first.creator.CreateTriangle - These points can't make a triangle : Point{x=1, y=2}Point{x=3, y=4}Point{x=5, y=6}
+11:23:58.436 [main] INFO  com.lavr.first.runner.Main - Perimeter of triangle Triangle{first=Point{x=1, y=2}, second=Point{x=3, y=4}, third=Point{x=1, y=6}}9.65685424949238
+11:23:58.446 [main] INFO  com.lavr.first.runner.Main - Square of triangle Triangle{first=Point{x=1, y=2}, second=Point{x=3, y=4}, third=Point{x=1, y=6}}3.9999999999999982
+11:23:58.446 [main] INFO  com.lavr.first.runner.Main - Perimeter of triangle Triangle{first=Point{x=0, y=0}, second=Point{x=3, y=0}, third=Point{x=0, y=4}}12.0
+11:23:58.446 [main] INFO  com.lavr.first.runner.Main - Square of triangle Triangle{first=Point{x=0, y=0}, second=Point{x=3, y=0}, third=Point{x=0, y=4}}6.0
